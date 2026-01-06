@@ -43,4 +43,5 @@ This project showcases an end-to-end sales analysis dashboard built using Power 
 
 
 ## Dashboard Preview
+![Dashboard Screenshot]()
 
